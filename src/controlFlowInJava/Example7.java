@@ -14,5 +14,6 @@ public class Example7 {
         }
         System.out.println("X is a real number : "+ x);
         System.out.println("The value of X  : " + x);
+
     }
 }
